@@ -1,5 +1,5 @@
 *{
-  font-family: Verdana, DejaVu Sans, sans-serif;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .odd-numbers{
@@ -15,4 +15,5 @@
 }
 #fourth-element{
   background-color: #80FF80;
+  font-weight: bold;
 }
